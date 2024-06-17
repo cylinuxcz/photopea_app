@@ -7,7 +7,7 @@ async function createWindow() {
     width: 3840,
     height: 2160,
     icon: 'data/icons/com.github.vikdevelop.photopea_app.png',
-    title: "Photopea",
+    title: "Photocrea",
     autoHideMenuBar: true,
     transparent: true,
     webPreferences: {
