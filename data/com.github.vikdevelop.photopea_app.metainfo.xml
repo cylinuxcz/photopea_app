@@ -2,15 +2,15 @@
 <component type="desktop">
     <id>com.github.vikdevelop.photopea_app</id>
     <launchable type="desktop-id">com.github.vikdevelop.photopea_app.desktop</launchable>
-    <name>Photopea</name>
+    <name>Photocrea</name>
     <summary>Advanced image editor</summary>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>MIT</project_license>
     <developer_name>vikdevelop</developer_name>
     
     <description>
-        <p>Photopea is a free image editor that includes all the familiar features like layers, filters, magic wand selection, etc. It supports formats from Adobe Photoshop i.e. .PSD, but also .XCF from GIMP, .Sketch from Sketch App, .XD from Adobe XD and .CDR from CorelDRAW software. From 2020 it also supports .FIG files from WinFIG, .RAW and .TGA images. </p>
-        <p>NOTES: This application is wrapper of web application Photopea. Only the Electron wrapper itself is licensed by MIT. The web application is under a proprietary license.</p>
+        <p>Photocrea is a free image editor that includes all the familiar features like layers, filters, magic wand selection, etc. It supports formats from Adobe Photoshop i.e. .PSD, but also .XCF from GIMP, .Sketch from Sketch App, .XD from Adobe XD and .CDR from CorelDRAW software. From 2020 it also supports .FIG files from WinFIG, .RAW and .TGA images. </p>
+        <p>NOTES: This application is unofficial wrapper of web application Photopea. Only the Electron wrapper itself is licensed by MIT. The web application is under a proprietary license.</p>
     </description>
     
     <url type="homepage">https://photopea.com</url>
@@ -47,6 +47,11 @@
     </branding>
     
     <releases>
+        <release version="2.3.7" date="2024-06-17">
+            <description>
+                <p>Changed name and icon of the application.</p>
+            </description>
+        <release>
         <release version="2.3.6" date="2022-11-27">
             <description>
                 <p>Added support for blocking ads.</p>
