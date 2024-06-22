@@ -8,5 +8,5 @@
 <h2>Build WebkitGTK (C++) version</h2>
 
 ```bash
-git clone https://github.com/vikdevelop/photopea_app --branch=cpp && cd photopea_app && c++ photopea.cpp `pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0` -o photopea_app
+git clone https://github.com/vikdevelop/photocrea --branch=cpp && cd photocrea && c++ photopea.cpp `pkg-config --cflags --libs gtk+-3.0 webkit2gtk-4.0` -o photopea_app
 ```
