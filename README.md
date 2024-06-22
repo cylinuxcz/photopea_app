@@ -1,4 +1,4 @@
-# Photopea Desktop App for Flatpak
+# Photocrea Desktop App for Flatpak
 ![Photopea](https://github.com/vikdevelop/photopea_app/blob/js/screenshots/Photopea_1.png)
 
 ![Photopea2](https://github.com/vikdevelop/photopea_app/blob/js/screenshots/Photopea_2.png)
